@@ -23,7 +23,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" tvg-chno="6",বিটিভি নিউজ
 
-#http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
 https://rangdhonutvlive.indiansserials.com/btvnews/tracks-v1a1/mono.ts.m3u8
 
