@@ -7,7 +7,7 @@ Shibganj, Chapainawabganj....
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/sangsad-television-bd.png" tvg-chno="1",সংসদ বাংলাদেশ
 https://rangdhonutvlive.indiansserials.com/sangsad/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" tvg-chno="2",BTV.HD
-#https://btv.hridoytv-channel.workers.dev/btv.m3u8
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 http://103.135.253.32:8080/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" tvg-chno="3",ATN BANGLA
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
@@ -17,7 +17,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/7.m3u8
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/BTV_Chittagong.png" tvg-chno="5",বিটিভি চট্টগ্রাম
-https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" tvg-chno="6",বিটিভি নিউজ
 #http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/13.m3u8
