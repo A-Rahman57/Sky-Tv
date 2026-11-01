@@ -128,7 +128,7 @@ http://38.96.178.205/STARPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="41",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" tvg-chno="42",Discovery BANGLA HD
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/219.png" tvg-chno="42",Discovery BANGLA HD
 http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" tvg-chno="43",Quran
@@ -137,7 +137,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" tvg-chno="44",SUNNAH
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" tvg-chno="45",Cartoon Network
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-chno="45",Cartoon Network
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-chno="46",NICK
