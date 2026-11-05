@@ -90,16 +90,16 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" tvg-chno="29",Duronto TV
-http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+https://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" tvg-chno="30",Deepto TV
-http://bosstv.click:8080/live/18012689/77561563/131985.m3u8
+https://bosstv.click:8080/live/18012689/77561563/131985.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" tvg-chno="31",T Sports
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" tvg-chno="32",Sun Bangla
-http://bosstv.click:8080/live/18012689/77561563/131985.m3u8
+https://bosstv.click:8080/live/18012689/77561563/131985.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" tvg-chno="33",ENTERR 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
