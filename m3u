@@ -4,7 +4,7 @@
 # Playlist name : Sky Tv 
 # Developed by  : Abdur Rahman
 # Location      : Shibganj, Chapainawabganj....
-# All channel   : 66
+# All channel   : 58
 #=================================
 
 #EXTINF:-1,BTV
@@ -84,7 +84,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
 #EXTINF:-1 tvg-chno="26",SOMOY TV
-https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1795197634~Starts=1795194034~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=bB2vJcCouHD7ptE478oxWxfFo1e82J8E5O_dp6HAJx95TCWKMRC0TkfCSBSYhyBzq4FhLZOdPPqAoGb7JLTgDg
 
 #EXTINF:-1 tvg-chno="27",DBC NEWS
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
