@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-chno="44",Sony ATT
-https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
+http://27.124.71.27/Sony_Aath/index.m3u8
 
 #EXTINF:-1 tvg-chno="45",Jalsha Movies
 https://103.17.193.159:5001/live/457.m3u8
@@ -173,7 +173,7 @@ https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 
 #EXTINF:-1 tvg-chno="56",Discovery
-https://103.17.193.159:5001/live/3428.m3u8
+http://103.17.193.159:5001/live/3428.m3u8
 
 #EXTINF:-1 tvg-chno="57",Animal Planet
 https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
@@ -191,10 +191,10 @@ https://prod-linear-media.toffeelive.com/cdn/live/saudi_sunnah/playlist.m3u8?edg
 https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8?edge-cache-token=Expires=1795116631~Starts=1795113031~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=qwwLo8O3kfgGvDPEFFnWwh5fUrBU1Bw-pYwtzsSFNcQ0DxSUGB3KWywKlPPidv-ttMF_XvJo18uW4jFow7-QBw
 
 #EXTINF:-1 tvg-chno="62",NICK
-https://103.17.193.159:5001/live/1341.m3u8
+http://103.17.193.159:5001/live/1341.m3u8
 
 #EXTINF:-1 tvg-chno="63",Sonic
-https://103.17.193.159:5001/live/1345.m3u8
+http://103.17.193.159:5001/live/1345.m3u8
 
 #EXTINF:-1 tvg-chno="64",Sony YaY
 https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1795116631~Starts=1795113031~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=qwwLo8O3kfgGvDPEFFnWwh5fUrBU1Bw-pYwtzsSFNcQ0DxSUGB3KWywKlPPidv-ttMF_XvJo18uW4jFow7-QBw
