@@ -146,7 +146,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://27.124.71.27/Sony_Aath/index.m3u8
 
 #EXTINF:-1 tvg-chno="45",Jalsha Movies
-https://103.17.193.159:5001/live/457.m3u8
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="46",STAR PLUS
 https://38.96.178.205/STARPLUS/index.m3u8
@@ -164,13 +164,13 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 http://103.17.193.159:5001/live/3428.m3u8
 
 #EXTINF:-1 tvg-chno="51",Animal Planet
-https://prod-linear-media.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
 
 #EXTINF:-1 tvg-chno="52",Quran
-https://prod-linear-media.toffeelive.com/cdn/live/saudi_quran/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-chno="53",SUNNAH
-https://prod-linear-media.toffeelive.com/cdn/live/saudi_sunnah/playlist.m3u8?edge-cache-token=Expires=1795163428~Starts=1795159828~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=ilsjN63XO-VH-x6fMfceG0EO1qpBVlJXKBc5vegHMpseFAKsLnU79nLh55is7qouqJmVSPvZpTU9UrMk334rDw
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-chno="54",NICK
 http://103.17.193.159:5001/live/1341.m3u8
@@ -179,10 +179,13 @@ http://103.17.193.159:5001/live/1341.m3u8
 http://103.17.193.159:5001/live/1345.m3u8
 
 #EXTINF:-1 tvg-chno="56",Sony YaY
-https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1795116631~Starts=1795113031~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=qwwLo8O3kfgGvDPEFFnWwh5fUrBU1Bw-pYwtzsSFNcQ0DxSUGB3KWywKlPPidv-ttMF_XvJo18uW4jFow7-QBw
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 tvg-chno="57",Discovery Kids
 https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1795116631~Starts=1795113031~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=qwwLo8O3kfgGvDPEFFnWwh5fUrBU1Bw-pYwtzsSFNcQ0DxSUGB3KWywKlPPidv-ttMF_XvJo18uW4jFow7-QBw
 
 #EXTINF:-1 tvg-chno="58",JALSHA BANGLA BD
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+
+#EXTINF:-1 tvg-chno="59" ,Zoom
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
