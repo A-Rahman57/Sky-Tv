@@ -102,7 +102,7 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
 #EXTINF:-1 tvg-chno="32",Duronto TV
-https://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+http://sm-monirul.xyz/@sm_iptv_bd/live.php?id=DURANTA.TV.HD&sm=.m3u8
 
 #EXTINF:-1 tvg-chno="33",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -152,7 +152,7 @@ https://103.17.193.159:5001/live/457.m3u8
 https://38.96.178.205/STARPLUS/index.m3u8
 
 #EXTINF:-1 tvg-chno="47",Sony MAX
-https://prod-linear-media.toffeelive.com/cdn/live/sony_max/playlist.m3u8?edge-cache-token=Expires=1795154431~Starts=1795150831~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=x7Bb9TrsdIpvdnZbfnTkbtH_OjsXHi0ZzNVA43UZvvSQiDNoJVhkfBgDMutk5-dxhP3C4rDi1Sh7qqtyHBzYAA
+https://toffee.sm-monirul-islam-rs.workers.dev/sony_max/index.m3u8
 
 #EXTINF:-1 tvg-chno="48",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
